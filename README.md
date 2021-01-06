@@ -1,1 +1,1 @@
-# NEWTON-S-CRADLES
+#demonstrating Newton's Cradle using JavaScript
